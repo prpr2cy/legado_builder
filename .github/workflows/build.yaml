@@ -154,4 +154,4 @@ jobs:
         with:
           name: legado-app-apk
           path: _project/app/build/outputs/apk/**/*.apk
-          retention-days: 3
+          retention-days: 0
